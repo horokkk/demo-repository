@@ -1,0 +1,8 @@
+kagglehub
+librosa
+pandas
+numpy
+tqdm
+resampy
+torch
+torchvision
